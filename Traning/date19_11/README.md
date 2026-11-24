@@ -1,0 +1,1 @@
+งาน 19/Nov/2026  เนื้อหาที่เรียนนี้คือ task Function, Array Methods และ Debug  ในclikup 
