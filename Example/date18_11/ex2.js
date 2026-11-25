@@ -1,4 +1,4 @@
-const products = [
+export const products = [
     { id: "01", title: "banana", price: 4000, active: true, stock: 4 },
     { id: "02", title: "watermelon", price: 6000, active: false, stock: 5 },
     { id: "03", title: "orange", price: 1000, active: false, stock: 22 },
